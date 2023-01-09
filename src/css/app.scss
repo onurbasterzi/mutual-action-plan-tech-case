@@ -1,0 +1,13 @@
+// app global css in SCSS form
+.wrapper{
+  max-width: 1200px;
+  margin: 10px auto;
+}
+
+a{
+  text-decoration: underline;
+  color:$primary;
+  font-weight: bold;
+
+
+}
